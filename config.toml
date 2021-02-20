@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "DE-de"
+title = "Informatik 5/6 NRW"
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+
+SectionPagesMenu = "main"
